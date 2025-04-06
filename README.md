@@ -13,14 +13,14 @@ Below is an example of an output:
 ```
 Displaying initial region:
 
-    T # T T T
-I I I - C C T
-I I I - C C T P
-I I I - C C T
-- - - - - - # -
-H c - R R R T
-    - R R R
-    - R R R
+        T # T T T
+    I I I - C C T
+    I I I - C C T P
+    I I I - C C T
+    - - - - - - # -
+    H c - R R R T
+        - R R R
+        - R R R
 
 Running City:
 
