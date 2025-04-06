@@ -66,6 +66,5 @@ Total Industrial Population: 0
 Total Commercial Population: 0
 Total Residential Population: 19
 Total Population: 19
-
 ```
 
