@@ -1,0 +1,7 @@
+Region Layout:region1.csv
+Time Limit:20
+Refresh Rate:1
+Percent Graduate High:0.90
+Percent High Employ:0.70
+Percent Grad College:0.30
+Percent College Employ:0.85
